@@ -1,0 +1,16 @@
+﻿<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon>
+		<tabs>
+			<tab id="tabPileUtilize" label="Pile Utilize">
+				<group id="grpTools" label="Tools">
+
+					<button id="btnTest"
+							label="Test"
+							size="large"
+							onAction="OnTestClick"/>
+
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
