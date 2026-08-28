@@ -6,7 +6,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>PileUtilizeCheck.Application</RootNamespace>
     <AssemblyName>PileUtilizeCheck.Application</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <OptionExplicit>On</OptionExplicit>
     <OptionStrict>On</OptionStrict>
     <OptionInfer>On</OptionInfer>
