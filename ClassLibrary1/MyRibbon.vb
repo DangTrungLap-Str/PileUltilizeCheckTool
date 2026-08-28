@@ -1,12 +1,10 @@
 ﻿Imports ExcelDna.Integration.CustomUI
 Imports System.Windows.Forms
+Imports System.Runtime.InteropServices
 
+<ComVisible(True)>
 Public Class MyRibbon
     Inherits ExcelRibbon
-
-    Public Overrides Function GetCustomUI(ribbonID As String) As String
-        Return Nothing
-    End Function
 
     Public Sub OnTestClick(control As IRibbonControl)
         MsgBox("Hello Excel-DNA")

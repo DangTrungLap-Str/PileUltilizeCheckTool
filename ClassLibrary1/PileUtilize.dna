@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DnaLibrary Name="PileUtilize Add-In" RuntimeVersion="v4.0" xmlns="http://schemas.excel-dna.net/addin/2020/07/dnalibrary">
   <ExternalLibrary Path="PileUtilize.dll" ExplicitExports="false" LoadFromBytes="true" Pack="true" IncludePdb="false" />
-
-		<CustomUI>
-			<![CDATA[
-      <customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
-        <ribbon>
+	<CustomUI>	
+      <customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" loadImage='LoadImage'>
+		  <ribbon>
           <tabs>
             <tab id="tabPileUtilize" label="Pile Utilize">
               <group id="grpTools" label="Tools">
@@ -18,6 +16,5 @@
           </tabs>
         </ribbon>
       </customUI>
-    ]]>
-		</CustomUI>
+	</CustomUI>
 </DnaLibrary>
