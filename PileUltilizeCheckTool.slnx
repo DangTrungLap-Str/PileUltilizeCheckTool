@@ -1,3 +1,18 @@
 <Solution>
-  <Project Path="ClassLibrary1/PileUtilize.vbproj" Id="6f02d325-4976-488c-bf05-01b48098b6fb" />
+  <Project Path="PileUtilizeCheck.Application/PileUtilizeCheck.Application.vbproj" Id="a1e7c1f3-7d36-4f9a-9b5a-10a6f6d4e104">
+    <BuildType Project="Debug" />
+  </Project>
+  <Project Path="PileUtilizeCheck.Domain/PileUtilizeCheck.Domain.vbproj" Id="a1e7c1f3-7d36-4f9a-9b5a-10a6f6d4e101">
+    <BuildType Project="Debug" />
+  </Project>
+  <Project Path="PileUtilizeCheck.ExcelAddIn/PileUtilizeCheck.ExcelAddIn.vbproj" Id="6f02d325-4976-488c-bf05-01b48098b6fb" />
+  <Project Path="PileUtilizeCheck.Geometry/PileUtilizeCheck.Geometry.vbproj" Id="a1e7c1f3-7d36-4f9a-9b5a-10a6f6d4e103">
+    <BuildType Project="Debug" />
+  </Project>
+  <Project Path="PileUtilizeCheck.Infrastructure/PileUtilizeCheck.Infrastructure.vbproj" Id="a1e7c1f3-7d36-4f9a-9b5a-10a6f6d4e105">
+    <BuildType Project="Debug" />
+  </Project>
+  <Project Path="PileUtilizeCheck.Shared/PileUtilizeCheck.Shared.vbproj" Id="a1e7c1f3-7d36-4f9a-9b5a-10a6f6d4e102">
+    <BuildType Project="Debug" />
+  </Project>
 </Solution>
