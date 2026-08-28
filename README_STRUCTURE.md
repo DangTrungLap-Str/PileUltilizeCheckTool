@@ -67,7 +67,7 @@ Thêm Project References vào `PileUtilizeCheck.ExcelAddIn.vbproj`:
 ## 📝 Các file quan trọng
 
 | File | Mục đích |
-|------|---------|
+|------|----------|
 | `PileUtilizeCheck.ExcelAddIn.dna` | Cấu hình Excel-DNA (Ribbon, External Libraries) |
 | `AddIn/Functions.vb` | Chứa các UDF (=TESTFUNCTIONNAME(args)) |
 | `Ribbon/RibbonUI.vb` | Handlers cho Ribbon buttons |

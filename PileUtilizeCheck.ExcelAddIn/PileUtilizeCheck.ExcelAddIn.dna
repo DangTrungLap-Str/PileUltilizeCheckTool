@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DnaLibrary Name="Pile Utilize Check Excel Add-In" RuntimeVersion="v4.0" xmlns="http://schemas.excel-dna.net/addin/2020/07/dnalibrary">
+  <ExternalLibrary Path="PileUtilizeCheck.ExcelAddIn.dll" ExplicitExports="false" LoadFromBytes="true" Pack="true" IncludePdb="false" />
+  
+  <!-- Ribbon UI Configuration -->
+  <CustomUI>	
+    <customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" loadImage="LoadImage">
+      <ribbon>
+        <tabs>
+          <tab id="tabPileUtilize" label="Pile Utilize">
+            <group id="grpTools" label="Tools">
+              <button id="btnTest"
+                      label="Test"
+                      size="large"
+                      onAction="OnTestClick"/>
+            </group>
+          </tab>
+        </tabs>
+      </ribbon>
+    </customUI>
+  </CustomUI>
+</DnaLibrary>
