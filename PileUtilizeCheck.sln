@@ -2,17 +2,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABND6A41C22}") = "PileUtilizeCheck.ExcelAddIn", "PileUtilizeCheck.ExcelAddIn\PileUtilizeCheck.ExcelAddIn.vbproj", "{6F02D325-4976-488C-BF05-01B48098B6FB}"
+Project("{F184B08F-C81C-45F6-A57F-5ABDA41C22}") = "PileUtilizeCheck.ExcelAddIn", "PileUtilizeCheck.ExcelAddIn\PileUtilizeCheck.ExcelAddIn.vbproj", "{6F02D325-4976-488C-BF05-01B48098B6FB}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABND6A41C22}") = "PileUtilizeCheck.Application", "PileUtilizeCheck.Application\PileUtilizeCheck.Application.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E104}"
+Project("{F184B08F-C81C-45F6-A57F-5ABDA41C22}") = "PileUtilizeCheck.Application", "PileUtilizeCheck.Application\PileUtilizeCheck.Application.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E104}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABND6A41C22}") = "PileUtilizeCheck.Geometry", "PileUtilizeCheck.Geometry\PileUtilizeCheck.Geometry.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E103}"
+Project("{F184B08F-C81C-45F6-A57F-5ABDA41C22}") = "PileUtilizeCheck.Geometry", "PileUtilizeCheck.Geometry\PileUtilizeCheck.Geometry.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E103}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABND6A41C22}") = "PileUtilizeCheck.Infrastructure", "PileUtilizeCheck.Infrastructure\PileUtilizeCheck.Infrastructure.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E105}"
+Project("{F184B08F-C81C-45F6-A57F-5ABDA41C22}") = "PileUtilizeCheck.Infrastructure", "PileUtilizeCheck.Infrastructure\PileUtilizeCheck.Infrastructure.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E105}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABND6A41C22}") = "PileUtilizeCheck.Shared", "PileUtilizeCheck.Shared\PileUtilizeCheck.Shared.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E102}"
+Project("{F184B08F-C81C-45F6-A57F-5ABDA41C22}") = "PileUtilizeCheck.Shared", "PileUtilizeCheck.Shared\PileUtilizeCheck.Shared.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E102}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABND6A41C22}") = "PileUtilizeCheck.Domain", "PileUtilizeCheck.Domain\PileUtilizeCheck.Domain.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E107}"
+Project("{F184B08F-C81C-45F6-A57F-5ABDA41C22}") = "PileUtilizeCheck.Domain", "PileUtilizeCheck.Domain\PileUtilizeCheck.Domain.vbproj", "{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,9 +40,9 @@ Global
 		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E102}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E102}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E102}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E107}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E107}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
