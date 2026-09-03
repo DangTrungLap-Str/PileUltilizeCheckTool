@@ -19,10 +19,6 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PileUtilizeCheck.Domain\PileUtilizeCheck.Domain.vbproj">
-      <Project>{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E101}</Project>
-      <Name>PileUtilizeCheck.Domain</Name>
-    </ProjectReference>
     <ProjectReference Include="..\PileUtilizeCheck.Shared\PileUtilizeCheck.Shared.vbproj">
       <Project>{A1E7C1F3-7D36-4F9A-9B5A-10A6F6D4E102}</Project>
       <Name>PileUtilizeCheck.Shared</Name>

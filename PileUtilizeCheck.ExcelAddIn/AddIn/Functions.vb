@@ -1,5 +1,3 @@
-Imports ExcelDna.Integration
-
 <ComVisible(True)>
 Public Module AddInFunctions
 

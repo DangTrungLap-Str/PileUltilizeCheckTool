@@ -1,6 +1,3 @@
-Imports ExcelDna.Integration
-Imports Microsoft.Office.Interop.Excel
-
 <ComVisible(True)>
 Public Class RibbonUI
 
